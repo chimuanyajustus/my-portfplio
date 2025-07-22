@@ -57,3 +57,21 @@ footer {
     padding: 1rem;
     background: #ddd;
 }
+/* Dark Mode */
+body.dark-mode {
+    background-color: #121212;
+    color: #f0f0f0;
+  }
+  
+  body.dark-mode section {
+    background-color: #1e1e1e;
+  }
+  
+  body.dark-mode footer {
+    background-color: #222;
+    color: #f0f0f0;
+  }
+  
+  body.dark-mode .socials a {
+    color: #f0f0f0;
+  }
